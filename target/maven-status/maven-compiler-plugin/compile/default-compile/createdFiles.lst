@@ -1,0 +1,11 @@
+com\project\bitespeed\entity\Contact$ContactBuilder.class
+com\project\bitespeed\controller\ContactController.class
+com\project\bitespeed\dto\IdentifyResponse.class
+com\project\bitespeed\BitespeedApplication.class
+com\project\bitespeed\dto\IdentifyResponse$ContactData.class
+com\project\bitespeed\dto\IdentifyRequest.class
+com\project\bitespeed\server\ContactService.class
+com\project\bitespeed\dto\IdentifyResponse$IdentifyResponseBuilder.class
+com\project\bitespeed\dto\IdentifyResponse$ContactData$ContactDataBuilder.class
+com\project\bitespeed\entity\Contact.class
+com\project\bitespeed\repo\ContactRepository.class
