@@ -1,6 +1,0 @@
-services:
-  - type: web
-    name: bitespeed-identity-service
-    runtime: java
-    buildCommand: "./mvnw clean package"
-    startCommand: "java -jar target/contact-identity-0.0.1-SNAPSHOT.jar"
