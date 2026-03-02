@@ -14,4 +14,4 @@ RUN chmod +x mvnw
 RUN ./mvnw clean package -DskipTests
 
 # Run the application
-CMD ["java", "-jar", "target/contact-identity-0.0.1-SNAPSHOT.jar"]
+CMD ["java", "-jar", "target/bitespeed-0.0.1-SNAPSHOT.jar"]
